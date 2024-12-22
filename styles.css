@@ -140,8 +140,8 @@ footer {
 }
 .timeline-date {
   position: absolute;
-  top: 8px;
-  left: 90px;
+  top: 16px;
+  left: 57px;
   font-size: 1.2rem;
   color: #444;
   font-weight: bold;
@@ -153,7 +153,7 @@ footer {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 .timeline-content h3 {
-  margin: 0 0 0.5rem;
+  margin: 20px 0 0.5rem;
   color: #333;
 }
 .timeline-content p {
